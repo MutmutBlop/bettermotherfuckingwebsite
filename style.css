@@ -1,10 +1,13 @@
+*
+{color: #EEEEEE;
+  width: 70%
+}
+
 .italique
 {font-style: italic;
 }
-width: 70%
+
 p
 {line-height: 1.4;
   font-size: 16px;
-}
-{color: #EEEEEE
 }

@@ -1,13 +1,12 @@
 *
-{color: #EEEEEE;
-  width: 70%
+{color: #808080;
+  margin: 40px;
+  max-width: 650px;
+  line-height: 1.4;
+  font-size: 18px;
+  padding: 0
 }
 
 .italique
 {font-style: italic;
-}
-
-p
-{line-height: 1.4;
-  font-size: 16px;
 }
